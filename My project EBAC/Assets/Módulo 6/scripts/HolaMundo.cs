@@ -12,8 +12,8 @@ public class HolaMundo : MonoBehaviour
         x = 0;
         print("Algo pasó");
 
-        Debug.LogWarning("Algo salió medianamente mal");
-        Debug.LogError("Algo salió muy mal");
+        //Debug.LogWarning("Algo salió medianamente mal");
+        //Debug.LogError("Algo salió muy mal");
     }
 
     // Se llama una vez por frame
